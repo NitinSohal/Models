@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blade of Olympus - God of War
+* source:	https://sketchfab.com/3d-models/blade-of-olympus-god-of-war-3c79a2deabec4efdbdd919433a0d4d3a
+* author:	Miguel Fonseca (https://sketchfab.com/Miguel.Fonseca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blade of Olympus - God of War" (https://sketchfab.com/3d-models/blade-of-olympus-god-of-war-3c79a2deabec4efdbdd919433a0d4d3a) by Miguel Fonseca (https://sketchfab.com/Miguel.Fonseca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
