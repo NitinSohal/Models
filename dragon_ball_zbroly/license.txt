@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dragon ball zBroly
+* source:	https://sketchfab.com/3d-models/dragon-ball-zbroly-eafcd3c777d34cdeaf20226c9154c468
+* author:	cheesycake00777 (https://sketchfab.com/cheesycake00777)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dragon ball zBroly" (https://sketchfab.com/3d-models/dragon-ball-zbroly-eafcd3c777d34cdeaf20226c9154c468) by cheesycake00777 (https://sketchfab.com/cheesycake00777) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

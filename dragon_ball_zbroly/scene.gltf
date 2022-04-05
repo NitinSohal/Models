@@ -1,0 +1,379 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4951,
+      "max": [
+        0.7038710117340088,
+        0.37198999524116516,
+        2.6869609355926514
+      ],
+      "min": [
+        -0.7185999751091003,
+        -0.3376320004463196,
+        0.00855099968612194
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 59412,
+      "componentType": 5126,
+      "count": 4951,
+      "max": [
+        0.9998468160629272,
+        0.9996939897537231,
+        0.9999526143074036
+      ],
+      "min": [
+        -0.9998345375061035,
+        -0.9990037083625793,
+        -0.9989858865737915
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4951,
+      "max": [
+        0.9954699873924255,
+        0.9942299723625183
+      ],
+      "min": [
+        0.007069999817758799,
+        0.0036299999337643385
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 15648,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 118824,
+      "componentType": 5126,
+      "count": 166,
+      "max": [
+        0.4718500077724457,
+        0.2928999960422516,
+        1.6729090213775635
+      ],
+      "min": [
+        -0.4497610032558441,
+        -0.3921999931335449,
+        0.9261429905891418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 120816,
+      "componentType": 5126,
+      "count": 166,
+      "max": [
+        0.9773421883583069,
+        0.9981529712677002,
+        0.9664694666862488
+      ],
+      "min": [
+        -0.969502866268158,
+        -0.9967231154441833,
+        -0.9647257924079895
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 39608,
+      "componentType": 5126,
+      "count": 166,
+      "max": [
+        0.9423499703407288,
+        0.9757099747657776
+      ],
+      "min": [
+        0.052230000495910645,
+        0.020549999549984932
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 62592,
+      "componentType": 5125,
+      "count": 636,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 122808,
+      "componentType": 5126,
+      "count": 805,
+      "max": [
+        0.3375929892063141,
+        0.5152559876441956,
+        2.9222118854522705
+      ],
+      "min": [
+        -0.3688090145587921,
+        -0.2036370038986206,
+        2.391942024230957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 132468,
+      "componentType": 5126,
+      "count": 805,
+      "max": [
+        0.9963892698287964,
+        0.9968748092651367,
+        0.97645503282547
+      ],
+      "min": [
+        -0.9928990602493286,
+        -0.9683802723884583,
+        -0.9944648742675781
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 40936,
+      "componentType": 5126,
+      "count": 805,
+      "max": [
+        1.0000100135803223,
+        1.0
+      ],
+      "min": [
+        0.0,
+        -9.999999747378752e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 65136,
+      "componentType": 5125,
+      "count": 1896,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "cheesycake00777 (https://sketchfab.com/cheesycake00777)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/dragon-ball-zbroly-eafcd3c777d34cdeaf20226c9154c468",
+      "title": "Dragon ball zBroly"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 72720,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 47376,
+      "byteOffset": 72720,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 142128,
+      "byteOffset": 120096,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 262224,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/body.png_baseColor.png"
+    },
+    {
+      "uri": "textures/cloth.png_baseColor.png"
+    },
+    {
+      "uri": "textures/hair.png_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "body.png",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.843491542
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "cloth.png",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.843491542
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "hair.png",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.843491542
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "Broly.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
